@@ -1,0 +1,6 @@
+{
+  "name": "NovaCart AI - Autonomous Smart Cart & In-Store Retail Platform",
+  "description": "Production-grade smart shopping cart with Google Gemini 2.5 Flash dietary analysis, shortest-path aisle navigation, edge LocalSync offline resilience, and anti-shrinkage security ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
